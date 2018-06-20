@@ -1,0 +1,6 @@
+C:\Users\formacion\source\repos\POOVueling\POOVueling\bin\Debug\POOVueling.dll
+C:\Users\formacion\source\repos\POOVueling\POOVueling\bin\Debug\POOVueling.pdb
+C:\Users\formacion\source\repos\POOVueling\POOVueling\obj\Debug\POOVueling.csprojAssemblyReference.cache
+C:\Users\formacion\source\repos\POOVueling\POOVueling\obj\Debug\POOVueling.csproj.CoreCompileInputs.cache
+C:\Users\formacion\source\repos\POOVueling\POOVueling\obj\Debug\POOVueling.dll
+C:\Users\formacion\source\repos\POOVueling\POOVueling\obj\Debug\POOVueling.pdb
