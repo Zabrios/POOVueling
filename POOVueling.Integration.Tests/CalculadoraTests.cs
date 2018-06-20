@@ -11,7 +11,6 @@ namespace POOVueling.Tests
     [TestClass()]
     public class CalculadoraTests
     {
-        //
         [TestMethod()]
         public void CloneTest()
         {
