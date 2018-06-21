@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOVueling", "POOVueling\PO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOVueling.Integration.Tests", "POOVueling.Integration.Tests\POOVueling.Integration.Tests.csproj", "{78DC8C25-258E-4A45-9D91-653FCE3FA301}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOVueling.Unit.Tests", "POOVueling.Unit.Tests\POOVueling.Unit.Tests.csproj", "{3345975A-B362-43AE-B74D-8FFE62CDA7EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{78DC8C25-258E-4A45-9D91-653FCE3FA301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DC8C25-258E-4A45-9D91-653FCE3FA301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DC8C25-258E-4A45-9D91-653FCE3FA301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3345975A-B362-43AE-B74D-8FFE62CDA7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3345975A-B362-43AE-B74D-8FFE62CDA7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3345975A-B362-43AE-B74D-8FFE62CDA7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3345975A-B362-43AE-B74D-8FFE62CDA7EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
