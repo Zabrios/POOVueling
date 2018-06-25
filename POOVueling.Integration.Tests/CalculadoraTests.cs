@@ -35,16 +35,20 @@ namespace POOVueling.Tests
             Assert.IsTrue(iCalculadora.Multiplicacion(num1, num2) == resultado);
         }
 
-        [TestMethod()]
+        [DataRow(4, 2, 2)]
+        [DataRow(6, 3, 3)]
+        [DataTestMethod()]
         public void RestaTest()
         {
-            Assert.Fail();
+            Assert.IsTrue(iCalculadora.Resta(num1, num2) == resultado);
         }
 
-        [TestMethod()]
+        [DataRow(4, 2, 6)]
+        [DataRow(6, 3, 9)]
+        [DataTestMethod()]
         public void SumaTest()
         {
-            Assert.Fail();
+            Assert.IsTrue(iCalculadora.Suma(num1, num2) == resultado);
         }
     }
 }
